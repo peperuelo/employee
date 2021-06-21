@@ -5,7 +5,7 @@ INSERT INTO Position (position_id, name)
 VALUES (2, 'qa');
 
 INSERT INTO Position (position_id, name)
-VALUES (4, 'mierda');
+VALUES (4, 'other');
 
 
 INSERT INTO Person (person_id,name, last_name, address, cellphone, city_name)  VALUES (1,'Camilo','Ruiz','cra','124','Medellin');
