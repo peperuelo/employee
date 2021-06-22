@@ -4,7 +4,6 @@ import com.andres.rios.ejemplo.employee.models.dto.Department;
 import com.andres.rios.ejemplo.employee.models.dto.Employee;
 import com.andres.rios.ejemplo.employee.service.EmployeeApi;
 import lombok.RequiredArgsConstructor;
-import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.http.HttpStatus;
 import org.springframework.http.ResponseEntity;
 import org.springframework.web.bind.annotation.*;
